@@ -1,0 +1,8 @@
+abogado
+enfermera
+kinesiólogo
+psicólogo
+juridico
+médico
+profesor
+médicos

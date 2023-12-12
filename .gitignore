@@ -1,0 +1,14 @@
+
+
+
+
+# Excluir todos los archivos .xlsx dentro de la carpeta 'output' output/*.xlsx
+# Pero mantener los siguientes archivos
+!processing/df_filtrado_prueba.xlsx
+!processing/df_prueba.xlsx
+
+
+# Excluir todos los archivos dentro de la carpeta 'processing'
+processing/*
+# Pero mantener la carpeta 'processing' en el repositorio
+!processing/.gitkeep
